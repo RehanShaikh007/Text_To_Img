@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+}
+
+.container{
+  /* border: 2px solid black; */
+  text-align: center;
+  margin-left: 150%;
+  width: 100%;
+}
+
+.searchCnt{
+  display: flex;
+  /* border: 2px solid red; */
+  justify-content: space-between;
+}
+
+.seachBox{
+  width: 80%;
+  border-radius: 10px;
+}
+
+.searchBtn{
+  color: white;
+  background-color: black;
+  /* margin-left: 10%; */
+}
+
+.imgDsply{
+  margin-top: 5%;
+  text-align: center;
+}
